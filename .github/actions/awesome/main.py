@@ -26,9 +26,9 @@ g = Github(settings.github_token)
 
 
 class Repository(BaseModel):
-    name: str
+    name: Optional[str]
     repo: HttpUrl
-    description: str
+    description: Optional[str]
     stars: Optional[int]
     category: str
 
@@ -59,6 +59,10 @@ def load_stars(data: RepositoriesData):
         if "github" in repository.repo.host:
             repo = g.get_repo(repository.repo.path.strip("/"))
             repository.stars = repo.stargazers_count
+            if not repository.name:
+                repository.name = repo.name
+            if not repository.description:
+                repository.description = repo.description
         elif "gitlab" in repository.repo.host:
             name = repository.repo.path.strip("/").replace("/", "%2F")
             url = f"https://gitlab.com/api/v4/projects/{name}"
