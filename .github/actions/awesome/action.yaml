@@ -37,7 +37,6 @@ runs:
       shell: bash
 
     - name: Commit README
-      if: ${{ github.event_name == 'push'  && github.ref == 'refs/heads/main' }}
       run: |
         git config --global user.name 'Github Actions'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
