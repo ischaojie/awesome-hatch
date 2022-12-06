@@ -1,0 +1,9 @@
+repositories:
+  - name: hatch-fancy-pypi-readme
+    repo: https://github.com/hynek/hatch-fancy-pypi-readme
+    description: Fancy PyPI READMEs with Hatch
+    category: Plugins
+  - name: hatch-requirements-txt
+    repo: https://github.com/repo-helper/hatch-requirements-txt
+    description: Hatchling plugin to read project dependencies from requirements.txt
+    category: Plugins
