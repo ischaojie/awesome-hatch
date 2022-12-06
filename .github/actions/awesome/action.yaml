@@ -33,7 +33,7 @@ runs:
       shell: bash
 
     - name: Render README
-      run: hatch run python ${{ github.action_path }}/main.py
+      run: python ${{ github.action_path }}/main.py
       shell: bash
 
     - name: Commit README
