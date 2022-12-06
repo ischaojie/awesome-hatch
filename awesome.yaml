@@ -7,3 +7,11 @@ repositories:
     repo: https://github.com/repo-helper/hatch-requirements-txt
     description: Hatchling plugin to read project dependencies from requirements.txt
     category: Plugins
+  - name: hatch-zipped-directory
+    repo: https://github.com/dairiki/hatch-zipped-directory
+    description: Hatch plugin to build zip archives which unpack to a single specifically-named directory
+    category: Plugins
+  - name: hatch-aws
+    repo: https://github.com/aka-raccoon/hatch-aws
+    description: Hatch plugin for building AWS Lambda functions with SAM
+    category: Plugins
