@@ -1,17 +1,29 @@
 repositories:
-  - name: hatch-fancy-pypi-readme
-    repo: https://github.com/hynek/hatch-fancy-pypi-readme
-    description: Fancy PyPI READMEs with Hatch
+  - repo: https://github.com/hynek/hatch-fancy-pypi-readme
     category: Plugins
-  - name: hatch-requirements-txt
-    repo: https://github.com/repo-helper/hatch-requirements-txt
-    description: Hatchling plugin to read project dependencies from requirements.txt
+  - repo: https://github.com/repo-helper/hatch-requirements-txt
     category: Plugins
-  - name: hatch-zipped-directory
-    repo: https://github.com/dairiki/hatch-zipped-directory
-    description: Hatch plugin to build zip archives which unpack to a single specifically-named directory
+  - repo: https://github.com/dairiki/hatch-zipped-directory
     category: Plugins
-  - name: hatch-aws
-    repo: https://github.com/aka-raccoon/hatch-aws
-    description: Hatch plugin for building AWS Lambda functions with SAM
+  - repo: https://github.com/aka-raccoon/hatch-aws
+    category: Plugins
+  - repo: https://github.com/ofek/hatch-autorun
+    category: Plugins
+  - repo: https://github.com/jupyterlab/hatch-jupyter-builder
+    category: Plugins
+  - repo: https://github.com/ofek/hatch-mypyc
+    category: Plugins
+  - repo: https://github.com/acsone/hatch-odoo
+    category: Plugins
+  - repo: https://github.com/agoose77/hatch-nodejs-version
+    category: Plugins
+  - repo: https://github.com/OldGrumpyViking/hatch-conda
+    category: Plugins
+  - repo: https://github.com/ofek/hatch-containers
+    category: Plugins
+  - repo: https://github.com/sbidoul/hatch-pip-deepfreeze
+    category: Plugins
+  - repo: https://github.com/ofek/hatch-vcs
+    category: Plugins
+  - repo: https://github.com/frankie567/hatch-regex-commit
     category: Plugins
