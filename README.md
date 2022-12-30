@@ -5,9 +5,9 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(82) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(90) - Fancy PyPI READMEs with Hatch
   
-- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(20) - A hatch plugin to help build Jupyter packages
+- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(21) - A hatch plugin to help build Jupyter packages
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(20) - Hatch plugin for versioning with your preferred VCS
   
