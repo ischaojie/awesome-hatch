@@ -9,15 +9,15 @@
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(24) - Hatch plugin for versioning with your preferred VCS
   
-- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(21) - A hatch plugin to help build Jupyter packages
+- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(23) - A hatch plugin to help build Jupyter packages
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(11) - Hatch build hook plugin for Mypyc
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(11) - Hatch plugin for Docker containers
   
-- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(7) - Hatchling plugin to read project dependencies from requirements.txt
+- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(10) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(6) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(7) - Hatch plugin for conda environments
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(5) - A hatch plugin to develop and package Odoo projects
   
@@ -25,9 +25,9 @@
   
 - [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(4) - Hatch plugin to create a commit and tag when bumping version
   
-- [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(3) - Hatch plugin to read pyproject.toml metadata from package.json
+- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(3) - Hatch plugin for building AWS Lambda functions with SAM
   
-- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(2) - Hatch plugin for building AWS Lambda functions with SAM
+- [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(3) - Hatch plugin to read pyproject.toml metadata from package.json
   
 - [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(0) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
