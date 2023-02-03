@@ -5,7 +5,7 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(97) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(99) - Fancy PyPI READMEs with Hatch
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(25) - Hatch plugin for versioning with your preferred VCS
   
@@ -15,7 +15,7 @@
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(11) - Hatch build hook plugin for Mypyc
   
-- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(11) - Hatch plugin for Docker containers
+- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(10) - Hatch plugin for Docker containers
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(7) - Hatch plugin for conda environments
   
