@@ -1,4 +1,5 @@
 from itertools import groupby
+import os
 from typing import List, Optional
 
 import requests
@@ -54,7 +55,7 @@ def write_readme(text: str) -> None:
         readme_file.write(text)
 
 
-def load_stars(data: RepositoriesData):
+def load_repo_data(data: RepositoriesData):
     for repository in data.repositories:
         if "github" in repository.repo.host:
             repo = g.get_repo(repository.repo.path.strip("/"))
@@ -69,16 +70,23 @@ def load_stars(data: RepositoriesData):
             res = requests.get(url, params={"access_token": settings.gitlab_token})
             star_count = res.json()["star_count"]
             repository.stars = star_count
+            if not repository.name:
+                repository.name = res.json()["name"]
+            if not repository.description:
+                repository.description = res.json()["description"]
+
 
 
 def run():
     awesome = read_awesome()
-    load_stars(awesome)
+    load_repo_data(awesome)
     repos = awesome.dict()["repositories"]
     repos.sort(key=lambda x: x["category"])
     data = {
         category: sorted(repo, key=lambda x: -x["stars"])
-        for category, repo in groupby(repos, key=lambda x: x["category"])
+        for category, repo in groupby(
+            repos, key=lambda x: x["category"]
+        )
     }
 
     text_readme = render_readme(data)
