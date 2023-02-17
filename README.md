@@ -5,7 +5,7 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(100) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(103) - Fancy PyPI READMEs with Hatch
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(25) - A hatch plugin to help build Jupyter packages
   
@@ -13,13 +13,13 @@
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(12) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(11) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(12) - Hatch build hook plugin for Mypyc
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(10) - Hatch plugin for Docker containers
   
-- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(8) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
+- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(9) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(7) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(8) - Hatch plugin for conda environments
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(5) - A hatch plugin to develop and package Odoo projects
   
