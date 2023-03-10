@@ -21,9 +21,9 @@
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(9) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(5) - A hatch plugin to develop and package Odoo projects
+- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(5) - Hatch plugin for building AWS Lambda functions with SAM
   
-- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(4) - Hatch plugin for building AWS Lambda functions with SAM
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(5) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(4) - Hatch plugin to create a commit and tag when bumping version
   
