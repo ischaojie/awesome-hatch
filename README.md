@@ -17,21 +17,21 @@
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(12) - Hatch plugin for Docker containers
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(10) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(11) - Hatch plugin for conda environments
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(10) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(6) - Hatch plugin for building AWS Lambda functions with SAM
+- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(7) - Hatch plugin for building AWS Lambda functions with SAM
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(5) - A hatch plugin to develop and package Odoo projects
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(6) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(4) - Hatch plugin to create a commit and tag when bumping version
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(3) - Hatch plugin to read pyproject.toml metadata from package.json
   
-- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(0) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(1) - Hatch build hook plugin to inject code that will automatically run
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(0) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(0) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
 
 
