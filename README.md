@@ -7,7 +7,7 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(113) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(32) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(33) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(27) - A hatch plugin to help build Jupyter packages
   
@@ -29,9 +29,9 @@
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(3) - Hatch plugin to read pyproject.toml metadata from package.json
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(1) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(1) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
-- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(0) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(1) - Hatch build hook plugin to inject code that will automatically run
   
 
 
