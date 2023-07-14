@@ -5,7 +5,7 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(121) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(122) - Fancy PyPI READMEs with Hatch
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(43) - Hatch plugin for versioning with your preferred VCS
   
@@ -13,7 +13,7 @@
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(20) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(17) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(18) - Hatch build hook plugin for Mypyc
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(16) - Hatch plugin for conda environments
   
