@@ -13,7 +13,7 @@
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(21) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(18) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(19) - Hatch build hook plugin for Mypyc
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(17) - Hatch plugin for conda environments
   
