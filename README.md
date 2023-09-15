@@ -9,7 +9,7 @@
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(47) - Hatch plugin for versioning with your preferred VCS
   
-- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(28) - A hatch plugin to help build Jupyter packages
+- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(30) - A hatch plugin to help build Jupyter packages
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(21) - Hatchling plugin to read project dependencies from requirements.txt
   
