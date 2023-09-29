@@ -17,9 +17,9 @@
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(19) - Hatch plugin for conda environments
   
-- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(14) - Hatch plugin for Docker containers
+- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(15) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(14) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
+- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(14) - Hatch plugin for Docker containers
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(10) - A hatch plugin to develop and package Odoo projects
   
