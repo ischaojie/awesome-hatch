@@ -13,9 +13,9 @@
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(22) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(21) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(22) - Hatch build hook plugin for Mypyc
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(19) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(21) - Hatch plugin for conda environments
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(15) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
@@ -31,7 +31,7 @@
   
 - [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(3) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(2) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(3) - Hatch build hook plugin to inject code that will automatically run
   
 
 
