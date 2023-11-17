@@ -7,7 +7,7 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(129) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(54) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(55) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(30) - A hatch plugin to help build Jupyter packages
   
@@ -21,15 +21,15 @@
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(14) - Hatch plugin for Docker containers
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(11) - A hatch plugin to develop and package Odoo projects
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(12) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(8) - Hatch plugin for building AWS Lambda functions with SAM
   
-- [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(5) - Hatch plugin to read pyproject.toml metadata from package.json
+- [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(6) - Hatch plugin to read pyproject.toml metadata from package.json
   
-- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(5) - Hatch plugin to create a commit and tag when bumping version
+- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(6) - Hatch plugin to create a commit and tag when bumping version
   
-- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(3) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
+- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(4) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
 - [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(3) - Hatch build hook plugin to inject code that will automatically run
   
