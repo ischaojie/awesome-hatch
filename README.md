@@ -5,29 +5,29 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(129) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(130) - Fancy PyPI READMEs with Hatch
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(55) - Hatch plugin for versioning with your preferred VCS
   
-- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(30) - A hatch plugin to help build Jupyter packages
+- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(31) - A hatch plugin to help build Jupyter packages
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(23) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(25) - Hatch build hook plugin for Mypyc
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(22) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(21) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(22) - Hatch plugin for conda environments
   
-- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(15) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
+- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(16) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(14) - Hatch plugin for Docker containers
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(12) - A hatch plugin to develop and package Odoo projects
   
-- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(8) - Hatch plugin for building AWS Lambda functions with SAM
+- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(9) - Hatch plugin for building AWS Lambda functions with SAM
+  
+- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(7) - Hatch plugin to create a commit and tag when bumping version
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(6) - Hatch plugin to read pyproject.toml metadata from package.json
-  
-- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(6) - Hatch plugin to create a commit and tag when bumping version
   
 - [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(4) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
