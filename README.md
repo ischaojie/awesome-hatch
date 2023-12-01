@@ -5,9 +5,9 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(130) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(129) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(55) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(56) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(31) - A hatch plugin to help build Jupyter packages
   
@@ -25,7 +25,7 @@
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(9) - Hatch plugin for building AWS Lambda functions with SAM
   
-- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(7) - Hatch plugin to create a commit and tag when bumping version
+- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(8) - Hatch plugin to create a commit and tag when bumping version
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(6) - Hatch plugin to read pyproject.toml metadata from package.json
   
