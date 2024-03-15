@@ -11,27 +11,27 @@
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(33) - A hatch plugin to help build Jupyter packages
   
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(31) - Hatch plugin for conda environments
+  
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(30) - Hatch build hook plugin for Mypyc
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(30) - Hatch plugin for conda environments
-  
-- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(24) - Hatchling plugin to read project dependencies from requirements.txt
+- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(25) - Hatchling plugin to read project dependencies from requirements.txt
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(17) - Hatch plugin for Docker containers
   
-- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(16) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
+- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(17) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(14) - A hatch plugin to develop and package Odoo projects
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(15) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(10) - Hatch plugin for building AWS Lambda functions with SAM
   
 - [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(9) - Hatch plugin to create a commit and tag when bumping version
   
+- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(6) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
+  
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(6) - Hatch plugin to read pyproject.toml metadata from package.json
   
-- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(5) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
-  
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(4) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(5) - Hatch build hook plugin to inject code that will automatically run
   
 
 
