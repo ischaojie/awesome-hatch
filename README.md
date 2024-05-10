@@ -7,7 +7,7 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(141) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(76) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(77) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(36) - A hatch plugin to help build Jupyter packages
   
@@ -23,11 +23,11 @@
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(15) - A hatch plugin to develop and package Odoo projects
   
-- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(10) - Hatch plugin for building AWS Lambda functions with SAM
+- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(11) - Hatch plugin for building AWS Lambda functions with SAM
+  
+- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(9) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
 - [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(9) - Hatch plugin to create a commit and tag when bumping version
-  
-- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(8) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
 - [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(6) - Hatch build hook plugin to inject code that will automatically run
   
