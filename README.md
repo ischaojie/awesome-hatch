@@ -19,9 +19,9 @@
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(18) - Hatch plugin for Docker containers
   
-- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(17) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
+- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(18) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(15) - A hatch plugin to develop and package Odoo projects
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(16) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(11) - Hatch plugin for building AWS Lambda functions with SAM
   
