@@ -7,11 +7,11 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(142) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(79) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(80) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(36) - A hatch plugin to help build Jupyter packages
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(34) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(35) - Hatch plugin for conda environments
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(32) - Hatch build hook plugin for Mypyc
   
@@ -21,7 +21,7 @@
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(18) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(16) - A hatch plugin to develop and package Odoo projects
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(17) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(11) - Hatch plugin for building AWS Lambda functions with SAM
   
