@@ -5,7 +5,7 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(142) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(144) - Fancy PyPI READMEs with Hatch
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(80) - Hatch plugin for versioning with your preferred VCS
   
@@ -19,9 +19,9 @@
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(18) - Hatch plugin for Docker containers
   
-- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(18) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
-  
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(17) - A hatch plugin to develop and package Odoo projects
+  
+- [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(17) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(11) - Hatch plugin for building AWS Lambda functions with SAM
   
@@ -29,7 +29,7 @@
   
 - [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(9) - Hatch plugin to create a commit and tag when bumping version
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(6) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(7) - Hatch build hook plugin to inject code that will automatically run
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(6) - Hatch plugin to read pyproject.toml metadata from package.json
   
