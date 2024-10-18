@@ -5,25 +5,25 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(152) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(154) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(97) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(101) - Hatch plugin for versioning with your preferred VCS
   
-- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(38) - A hatch plugin to help build Jupyter packages
+- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(39) - A hatch plugin to help build Jupyter packages
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(38) - Hatch plugin for conda environments
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(36) - Hatch build hook plugin for Mypyc
   
-- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(33) - Hatchling plugin to read project dependencies from requirements.txt
+- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(32) - Hatchling plugin to read project dependencies from requirements.txt
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(25) - A hatch plugin to develop and package Odoo projects
   
-- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(21) - Hatch plugin for Docker containers
+- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(22) - Hatch plugin for Docker containers
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(19) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(12) - Hatch plugin for building AWS Lambda functions with SAM
+- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(13) - Hatch plugin for building AWS Lambda functions with SAM
   
 - [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(10) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
