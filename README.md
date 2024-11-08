@@ -5,15 +5,15 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(156) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(157) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(103) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(104) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(39) - A hatch plugin to help build Jupyter packages
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(38) - Hatch plugin for conda environments
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(36) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(37) - Hatch build hook plugin for Mypyc
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(33) - Hatchling plugin to read project dependencies from requirements.txt
   
@@ -27,9 +27,9 @@
   
 - [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(10) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
-- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(9) - Hatch plugin to create a commit and tag when bumping version
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(9) - Hatch build hook plugin to inject code that will automatically run
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(8) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(9) - Hatch plugin to create a commit and tag when bumping version
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(7) - Hatch plugin to read pyproject.toml metadata from package.json
   
