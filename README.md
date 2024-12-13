@@ -15,7 +15,7 @@
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(38) - Hatch build hook plugin for Mypyc
   
-- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(34) - Hatchling plugin to read project dependencies from requirements.txt
+- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(36) - Hatchling plugin to read project dependencies from requirements.txt
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(27) - A hatch plugin to develop and package Odoo projects
   
