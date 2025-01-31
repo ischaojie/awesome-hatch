@@ -9,7 +9,7 @@
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(117) - Hatch plugin for versioning with your preferred VCS
   
-- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(40) - A hatch plugin to help build Jupyter packages
+- [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(41) - A hatch plugin to help build Jupyter packages
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(39) - Hatch plugin for conda environments
   
