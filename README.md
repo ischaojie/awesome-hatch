@@ -5,13 +5,13 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(164) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(166) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(126) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(129) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(42) - A hatch plugin to help build Jupyter packages
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(40) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(41) - Hatch build hook plugin for Mypyc
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(40) - Hatch plugin for conda environments
   
@@ -27,11 +27,11 @@
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(13) - Hatch plugin for building AWS Lambda functions with SAM
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(11) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(12) - Hatch build hook plugin to inject code that will automatically run
+  
+- [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(9) - Hatch plugin to read pyproject.toml metadata from package.json
   
 - [hatch-regex-commit](https://github.com/frankie567/hatch-regex-commit) 🌟(9) - Hatch plugin to create a commit and tag when bumping version
-  
-- [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(8) - Hatch plugin to read pyproject.toml metadata from package.json
   
 
 
