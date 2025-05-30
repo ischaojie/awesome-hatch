@@ -11,13 +11,13 @@
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(47) - A hatch plugin to help build Jupyter packages
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(44) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(45) - Hatch build hook plugin for Mypyc
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(40) - Hatch plugin for conda environments
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(36) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(30) - A hatch plugin to develop and package Odoo projects
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(32) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(24) - Hatch plugin for Docker containers
   
