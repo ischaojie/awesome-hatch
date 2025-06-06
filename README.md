@@ -7,7 +7,7 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(172) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(138) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(140) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(47) - A hatch plugin to help build Jupyter packages
   
@@ -19,7 +19,7 @@
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(32) - A hatch plugin to develop and package Odoo projects
   
-- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(24) - Hatch plugin for Docker containers
+- [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(25) - Hatch plugin for Docker containers
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(18) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
