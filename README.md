@@ -7,15 +7,15 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(173) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(144) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(146) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(47) - A hatch plugin to help build Jupyter packages
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(45) - Hatch build hook plugin for Mypyc
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(40) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(41) - Hatch plugin for conda environments
   
-- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(37) - Hatchling plugin to read project dependencies from requirements.txt
+- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(39) - Hatchling plugin to read project dependencies from requirements.txt
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(32) - A hatch plugin to develop and package Odoo projects
   
@@ -25,9 +25,9 @@
   
 - [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(14) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
-- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(13) - Hatch plugin for building AWS Lambda functions with SAM
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(14) - Hatch build hook plugin to inject code that will automatically run
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(13) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(13) - Hatch plugin for building AWS Lambda functions with SAM
   
 - [hatch-nodejs-version](https://github.com/agoose77/hatch-nodejs-version) 🌟(10) - Hatch plugin to read pyproject.toml metadata from package.json
   
