@@ -11,9 +11,9 @@
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(48) - A hatch plugin to help build Jupyter packages
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(47) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(48) - Hatch build hook plugin for Mypyc
   
-- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(41) - Hatch plugin for conda environments
+- [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(42) - Hatch plugin for conda environments
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(40) - Hatchling plugin to read project dependencies from requirements.txt
   
