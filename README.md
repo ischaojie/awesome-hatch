@@ -7,7 +7,7 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(176) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(150) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(153) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(48) - A hatch plugin to help build Jupyter packages
   
@@ -23,9 +23,9 @@
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(18) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(14) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
+- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(15) - Hatch build hook plugin to inject code that will automatically run
   
-- [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(14) - Hatch build hook plugin to inject code that will automatically run
+- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(14) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
 - [hatch-aws](https://github.com/aka-raccoon/hatch-aws) 🌟(12) - Hatch plugin for building AWS Lambda functions with SAM
   
