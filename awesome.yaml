@@ -29,3 +29,5 @@ repositories:
     category: Plugins
   - repo: https://github.com/mxysptlk/hatch-pyinstaller
     category: Plugins
+  - repo: https://github.com/oh-ok/hatch-pex
+    category: Plugins
