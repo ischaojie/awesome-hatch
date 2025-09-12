@@ -5,7 +5,7 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(176) - Fancy PyPI READMEs with Hatch
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(177) - Fancy PyPI READMEs with Hatch
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(161) - Hatch plugin for versioning with your preferred VCS
   
