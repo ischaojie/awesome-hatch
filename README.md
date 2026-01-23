@@ -9,7 +9,7 @@
   
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(174) - Hatch plugin for versioning with your preferred VCS
   
-- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(52) - Hatch build hook plugin for Mypyc
+- [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(54) - Hatch build hook plugin for Mypyc
   
 - [hatch-jupyter-builder](https://github.com/jupyterlab/hatch-jupyter-builder) 🌟(46) - A hatch plugin to help build Jupyter packages
   
