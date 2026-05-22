@@ -15,7 +15,7 @@
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(42) - Hatch plugin for conda environments
   
-- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(40) - Hatchling plugin to read project dependencies from requirements.txt
+- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(41) - Hatchling plugin to read project dependencies from requirements.txt
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(36) - A hatch plugin to develop and package Odoo projects
   
