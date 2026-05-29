@@ -7,7 +7,7 @@
   
 - [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(187) - Fancy PyPI READMEs with Hatch
   
-- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(184) - Hatch plugin for versioning with your preferred VCS
+- [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(185) - Hatch plugin for versioning with your preferred VCS
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(55) - Hatch build hook plugin for Mypyc
   
@@ -23,7 +23,7 @@
   
 - [hatch-pip-deepfreeze](https://github.com/sbidoul/hatch-pip-deepfreeze) 🌟(18) - A hatch virtual environment plugin to lock dependencies with pip-deepfreeze
   
-- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(16) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
+- [hatch-zipped-directory](https://github.com/dairiki/hatch-zipped-directory) 🌟(17) - Hatch plugin to build zip archives which unpack to a single specifically-named directory
   
 - [hatch-autorun](https://github.com/ofek/hatch-autorun) 🌟(16) - Hatch build hook plugin to inject code that will automatically run
   
