@@ -17,7 +17,7 @@
   
 - [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(41) - Hatchling plugin to read project dependencies from requirements.txt
   
-- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(36) - A hatch plugin to develop and package Odoo projects
+- [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(37) - A hatch plugin to develop and package Odoo projects
   
 - [hatch-containers](https://github.com/ofek/hatch-containers) 🌟(26) - Hatch plugin for Docker containers
   
