@@ -5,9 +5,9 @@
 
 ## Plugins
   
-- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(189) - Fancy PyPI READMEs with Hatch
-  
 - [hatch-vcs](https://github.com/ofek/hatch-vcs) 🌟(188) - Hatch plugin for versioning with your preferred VCS
+  
+- [hatch-fancy-pypi-readme](https://github.com/hynek/hatch-fancy-pypi-readme) 🌟(187) - Fancy PyPI READMEs with Hatch
   
 - [hatch-mypyc](https://github.com/ofek/hatch-mypyc) 🌟(55) - Hatch build hook plugin for Mypyc
   
@@ -15,7 +15,7 @@
   
 - [hatch-conda](https://github.com/OldGrumpyViking/hatch-conda) 🌟(42) - Hatch plugin for conda environments
   
-- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(41) - Hatchling plugin to read project dependencies from requirements.txt
+- [hatch-requirements-txt](https://github.com/repo-helper/hatch-requirements-txt) 🌟(40) - Hatchling plugin to read project dependencies from requirements.txt
   
 - [hatch-odoo](https://github.com/acsone/hatch-odoo) 🌟(37) - A hatch plugin to develop and package Odoo projects
   
