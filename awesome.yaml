@@ -27,3 +27,9 @@ repositories:
     category: Plugins
   - repo: https://github.com/frankie567/hatch-regex-commit
     category: Plugins
+  - repo: https://github.com/Aviksaikat/cookiecutter-hatch-pypackage
+    category: Project Templates
+  - repo: https://github.com/FlorianWilhelm/the-hatchlor
+    category: Project Templates
+  - repo: https://github.com/frankie567/cookiecutter-hipster-pypackage
+    category: Project Templates
