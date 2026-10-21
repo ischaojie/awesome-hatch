@@ -27,3 +27,5 @@ repositories:
     category: Plugins
   - repo: https://github.com/frankie567/hatch-regex-commit
     category: Plugins
+  - repo: https://github.com/juftin/hatch-pip-compile
+    category: Plugins
